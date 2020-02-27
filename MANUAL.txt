@@ -1,0 +1,8 @@
+1. CREAR CARPETA
+2. COPIAR ARCHIVO
+3. git init (PARA INICIARLO)
+4. git status (para ver o seguimiento)
+5. git add (añadir un archivo para su seguimiento)
+6. git config --global user.email "sdmoquillazah@gmail.com"
+   git config --global user.name "santiago"
+7. git commit -m "mensaje que deseo escribir"
